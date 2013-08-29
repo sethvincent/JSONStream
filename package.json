@@ -8,7 +8,7 @@
     "url": "git://github.com/dominictarr/JSONStream.git"
   },
   "dependencies": {
-    "jsonparse": "substack/jsonparse",
+    "jsonparse": "git://github.com/substack/jsonparse.git#browsers",
     "through": "~2.2.7"
   },
   "devDependencies": {
